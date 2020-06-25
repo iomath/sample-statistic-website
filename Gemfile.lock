@@ -75,6 +75,7 @@ DEPENDENCIES
   jekyll (~> 4.0.1)
   jekyll-feed (~> 0.12)
   jekyll-include_snippet
+  jekyll-seo-tag
   just-the-docs (= 0.2.9)
   tzinfo (~> 1.2)
   tzinfo-data
