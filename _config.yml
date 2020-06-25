@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Collection of statistical concepts explained in a very simple way.
   Learn the statistics used in engineering and data science from real-life and code examples.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samplestatistic.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 # logo: "/assets/images/just-the-docs.png"
