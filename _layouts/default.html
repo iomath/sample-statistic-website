@@ -1,5 +1,6 @@
 ---
 layout: table_wrappers
+comments: true
 ---
 
 <!DOCTYPE html>
@@ -94,6 +95,11 @@ layout: table_wrappers
               {% endfor %}
             </ul>
           {% endif %}
+        
+          {% if site.disqus.shortname %}
+          <h2>Leave your comments</h2>
+          {% include disqus.html %}
+          {% endif %}
 
           {% if site.footer_content != nil or site.last_edit_timestamp or site.gh_edit_link %}
             <hr>
@@ -127,6 +133,7 @@ layout: table_wrappers
                   {% endif %}
                 </div>
               {% endif %}
+
 
             </footer>
           {% endif %}
