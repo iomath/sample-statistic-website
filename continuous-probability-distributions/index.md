@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discrete Probability Distributions
+title: Continuous Probability Distributions
 has_children: true
 comments: false
 ---
