@@ -7,6 +7,7 @@ has_toc: true
 comments: false
 ---
 
-1. TOC
-{:toc}
+# {{ page.title }}
+
+{: .fs-6 .fw-300 }
 
