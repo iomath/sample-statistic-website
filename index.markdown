@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: home
+nav_order: 0
 ---
 
 # About <strong>{{ site.title }}</strong>

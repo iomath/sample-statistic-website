@@ -2,7 +2,6 @@
 layout: default
 title: Normal
 parent: Continuous Probability Distributions
-nav_order: 1
 has_toc: true
 usemathjax: true
 ---
