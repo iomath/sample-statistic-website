@@ -36,7 +36,8 @@ aux_links:
 
 footer_content: "Copyright &copy; 2020."
 
-ga_tracking: UA-5555555-55
+ga_tracking: UA-171199155-1
+ga_tracking_anonymize_ip: true
 
 # Build settings
 #remote_theme: pmarsceill/just-the-docs
