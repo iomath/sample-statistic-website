@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Discrete Probability Distributions
-has_children: true
-comments: false
 ---
 
 # {{ page.title }}

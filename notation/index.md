@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Notation
-has_children: true
 ---
 
 # {{ page.title }}
