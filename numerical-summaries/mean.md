@@ -2,7 +2,6 @@
 layout: default
 title: Mean 
 parent: Numerical summaries
-has_children: false
 nav_exclude: false
 has_toc: true
 usemathjax: true
@@ -22,7 +21,7 @@ The mean, also known as the arithmetic mean or average, is the sum of all the nu
 ## Formula to calculate the mean
 
 \begin{equation}
-mean = \bar{x} = \frac{sum}{size} = \frac{\displaystyle\sum_{i=1}^{n}{x}}{n}
+\bar{x} = \frac{1}{n} (x_1 + x_2 + \ldots + x_n) = \frac{1}{n} \displaystyle\sum_{i=1}^{n}{x}
 \end{equation}
 
 # Code examples
