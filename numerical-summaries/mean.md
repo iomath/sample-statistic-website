@@ -12,11 +12,13 @@ usemathjax: true
 1. TOC
 {:toc}
 
-# Arithmetic mean
+# {{ page.title }}
 
-## What is it?
+## Definition
 
 The mean, also known as the arithmetic mean or average, is the sum of all the numbers in a data set divided by the quantity of numbers in that set. 
+
+The mean is a **measure of location**.
 
 ## Formula to calculate the mean
 
