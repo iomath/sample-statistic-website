@@ -2,7 +2,6 @@
 layout: default
 title: Case-control study
 parent: Medical Statistics
-has_toc: true
 usemathjax: false
 ---
 

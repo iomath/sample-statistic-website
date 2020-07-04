@@ -2,7 +2,6 @@
 layout: default
 title: Discrete uniform
 parent: Discrete Probability Distributions
-has_toc: true
 usemathjax: true
 ---
 

@@ -2,7 +2,6 @@
 layout: default
 title: Poisson
 parent: Discrete Probability Distributions
-has_toc: true
 usemathjax: true
 ---
 

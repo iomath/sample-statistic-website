@@ -3,11 +3,11 @@ layout: default
 title: Mean Vector
 parent: Multivariate Analysis
 nav_exclude: false
-has_toc: true
 usemathjax: true
 ---
 
 ## Table of contents
+{:.no_toc .text-delta}
 
 1. TOC
 {:toc}

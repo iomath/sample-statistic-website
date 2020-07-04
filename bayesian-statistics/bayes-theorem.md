@@ -3,7 +3,6 @@ layout: default
 title: Bayes theorem
 parent: Bayesian Statistics
 nav_exclude: false
-has_toc: true
 usemathjax: true
 ---
 

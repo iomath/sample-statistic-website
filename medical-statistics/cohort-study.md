@@ -2,7 +2,6 @@
 layout: default
 title: Cohort Study
 parent: Medical Statistics
-has_toc: true
 usemathjax: false
 ---
 
