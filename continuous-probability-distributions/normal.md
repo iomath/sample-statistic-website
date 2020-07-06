@@ -35,3 +35,13 @@ Typically used for measuraments clustered symmetrically around a mean.
     <dt>Variance</dt>
     <dd>$$\sigma^2$$</dd>
 </dl>
+
+# Code examples
+
+## Plot normal distribution in R
+
+{% highlight r %}
+{% include_relative normal-distribution.r %}
+{% endhighlight %}
+
+<img src="../normal-distribution.png" />
