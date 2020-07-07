@@ -46,7 +46,7 @@ GEM
       jekyll (>= 3.8.5, < 4.1.0)
       jekyll-seo-tag (~> 2.0)
       rake (>= 12.3.1, < 13.1.0)
-    kramdown (2.2.1)
+    kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -76,7 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.1)
-  jekyll-feed (~> 0.12)
+  jekyll-feed
   jekyll-include_snippet
   jekyll-seo-tag
   jekyll-sitemap
