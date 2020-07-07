@@ -32,6 +32,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap  
 
 exclude:
   - Makefile
