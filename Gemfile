@@ -10,7 +10,6 @@ end
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
-  gem 'jekyll-include_snippet'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
 end
