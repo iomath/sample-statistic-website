@@ -28,6 +28,14 @@ s^2 = \sqrt{
     }
 \end{equation}
 
+# Code example
+
+## How to calculate the variance in R
+
+{% highlight r %}
+{% include_relative variance.r %}
+{% endhighlight %}
+
 # References
 
 * [Stattrek](https://stattrek.com/statistics/dictionary.aspx?definition=variance)
