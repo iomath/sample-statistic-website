@@ -23,15 +23,15 @@ The mean is a **measure of location**.
 ## Formula to calculate the mean
 
 \begin{equation}
-\bar{x} = \frac{1}{n} (x_1 + x_2 + \ldots + x_n) = \frac{1}{n} \displaystyle\sum_{i=1}^{n}{x}
+\bar{x} = \frac{1}{n} \displaystyle\sum_{i=1}^{n}{x_i} = \frac{1}{n} (x_1 + x_2 + \ldots + x_n)
 \end{equation}
 
-# Code examples
+# Code example
 
-## How to calculate the mean in Python
+## How to calculate the mean in R
 
-{% highlight python %}
-{% include_relative mean.py %}
+{% highlight r %}
+{% include_relative mean.r %}
 {% endhighlight %}
 
 # References
